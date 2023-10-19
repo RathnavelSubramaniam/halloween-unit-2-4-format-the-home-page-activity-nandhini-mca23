@@ -1,0 +1,65 @@
+.d1 img{
+    float:left;
+}
+.d1 h1{
+    display: inline;
+    color: orange;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: black 1px 1px;
+    font-size: 45px;
+}
+.c1{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.w1 p::first-letter {
+    font-size: 200%;
+  }
+.w1 p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.C1 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.u1 h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.u1 a{
+    color: orange;
+
+}
+.u1 #l1{
+    color: orange;
+    
+}
+ul li::before {
+    content: "\2022";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -21px;
+  }
+.u1 li{
+    padding-top: 1px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+.f1 h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.f1 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.f1 footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
